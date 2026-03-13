@@ -45,6 +45,14 @@
 - 네트워크관리사 2급 (2022.12)
 
 ## 📈 GitHub Stats
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=urusekai&show_icons=true&rank_icon=github&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&hide_border=true" />
+  <img height="160" src="https://streak-stats.demolab.com?user=urusekai&theme=dark&hide_border=true&background=000000" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=urusekai&show_icons=true&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=urusekai&bg_color=000000&color=cccccc&line=ffffff&point=888888&area=true&area_color=222222&title_color=ffffff&hide_border=true&hide_title=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=urusekai&bg_color=000000&color=cccccc&line=ffffff&point=888888&area=true&area_color=222222&hide_border=true&hide_title=true" />
+</p>
+
+
+
