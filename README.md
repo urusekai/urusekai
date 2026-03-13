@@ -1,9 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2b2b2b&height=150&section=header&text=Singularity&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
-</p>
-
-<p align="center" style="margin-top:-100px;">
-<img src="https://komarev.com/ghpvc/?username=urusekai&style=flat-square&color=lightgrey"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=90&section=header&text=Singularity&fontSize=26&fontColor=ffffff"/>
 </p>
 
 ## 🧑‍💻 Activity
@@ -24,20 +20,22 @@
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Express](https://img.shields.io/badge/Express-444444?style=flat-square&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![LLM API](https://img.shields.io/badge/LLM_API-000000?style=flat-square&logo=openai&logoColor=white)
+![LLM API](https://img.shields.io/badge/LLM_API-444444?style=flat-square&logo=openai&logoColor=white)
 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=white)
+![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflarepages&logoColor=white)
+![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-444444?style=flat-square&logo=notion&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
 
 ## 🪪 Certifications
