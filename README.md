@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <img height="172" src="https://github-readme-stats.vercel.app/api?username=urusekai&show_icons=true&rank_icon=github&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&hide_border=true" />
-  <img height="172" src="https://streak-stats.demolab.com?user=urusekai&theme=dark&hide_border=true&background=000000" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=urusekai&show_icons=true&rank_icon=github&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&hide_border=true" />
+  <img height="160" src="https://streak-stats.demolab.com?user=urusekai&theme=dark&hide_border=true&background=000000" />
 </p>
 
 <p align="center"><b>Frontend</b></p>
