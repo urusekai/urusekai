@@ -7,8 +7,6 @@
   <img height="160" src="https://streak-stats.demolab.com?user=urusekai&theme=dark&hide_border=true&background=000000" />
 </p>
 
-<br>
-
 ## ⚙️ Tech Stack
 
 <p>
@@ -43,16 +41,12 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>
 
-<br>
-
 ## 💻 Activity
 
 - 가천대학교 컴퓨터공학과 졸업 [ 2025.02 ]
 - 카카오엔터프라이즈 SW 아카데미 [ 2025.03 ~ 2025.06 ]
 - 디케이테크인 기업 실무 프로젝트 [ 2025.06 ~ 2025.08 ]
 - KDT UX/UI 프론트엔드 과정 [ 2025.11 ~ 현재 ]
-
-<br>
 
 ## 📜 Certifications
 - 네트워크관리사 2급 [ 2022.12 ]
